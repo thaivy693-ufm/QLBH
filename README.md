@@ -1,7 +1,7 @@
 DỰ ÁN QUẢN LÝ BÁN HÀNG (SQL SERVER)
 
 Giới thiệu
-Dự án lưu trữ các script SQL xử lý nghiệp vụ thực tế trong quản lý bán hàng, được thiết kế dựa trên trải nghiệm vận hành POS và đối soát chứng từ B2B thực tế.
+Dự án lưu trữ các script SQL xử lý nghiệp vụ thực tế trong quản lý bán hàng, được thiết kế dựa trên trải nghiệm vận hành POS và đối soát chứng từ B2B thực tế. Giúp truy xuất báo cáo doanh thu nhanh chóng bằng SQL
 
 Các kỹ năng thực hiện
 Truy vấn báo cáo: Sử dụng `JOIN`, `GROUP BY`, và `HAVING` để phân tích doanh thu.
